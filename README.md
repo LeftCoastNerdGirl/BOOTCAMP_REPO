@@ -1,4 +1,4 @@
-# Excel_crowdfunding_analysis
+# Excel Analytics
 
 For this project, a excel database containing information including project name, category, funding goal, funding amount raised, and number of backers for a sample of 1,000 crowdfunding projects. The purpose of the analysis was to uncover any hidden trends that could be duplicated for future projects to increase their potential for success.
 
